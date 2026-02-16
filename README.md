@@ -47,6 +47,6 @@ This project provides two main features:
 | **Spring Data JPA** | ORM / Database layer |
 | **MySQL** | Database |
 | **Hibernate** | Object–Relational Mapping |
-| **Postman / React** | API testing or Frontend |
+| **Postman** | API testing |
 
 ---

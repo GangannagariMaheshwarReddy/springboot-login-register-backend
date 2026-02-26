@@ -1,4 +1,4 @@
-# 🔐 Spring Boot Login & Registration System !!
+# 🔐 Spring Boot Login & Registration System !
 
 A complete backend system built using **Spring Boot**, **Hibernate JPA**, and **MySQL**.  
 This project provides two main features:
